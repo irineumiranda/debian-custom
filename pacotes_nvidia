@@ -1,0 +1,2 @@
+
+sudo apt-get install aria2 nvidia-opencl-icd libcuda1 libglu1-mesa install nvidia-cuda-dev nvidia-cuda-gdb nvidia-cuda-mps nvidia-cuda-mps nvidia-cuda-toolkit-gcc 
